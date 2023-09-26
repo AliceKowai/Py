@@ -1,0 +1,12 @@
+{
+    "Nome":"Alice",
+    "Time":"Alpha",
+    "vivo":"True",
+    "energia":100,
+    "granadas":["plasma","fragmentação", "spike"],
+    "armas":[
+        {"tecnologia":"covenant", "nome":"Canhão de Combustivel"},
+        {"tecnologia":"unsc", "nome":"magnum"},
+        {"tecnologia":"unsc", "nome":"dmr"}
+    ]
+}
