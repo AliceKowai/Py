@@ -47,6 +47,7 @@ def pop():
         return k
     
 #comentario qualquer para testar
+#teste
 print(pilha)
 for i in range(10):
     push(i)
