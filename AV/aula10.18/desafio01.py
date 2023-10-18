@@ -1,4 +1,4 @@
-valo1 = 10
+valor1 = 10
 valor2 = 10
 valor3 = 2
-print(Floki - Alice - Gus)
+print(valor1 - valor2 - valor3)
