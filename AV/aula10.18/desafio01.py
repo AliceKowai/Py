@@ -1,4 +1,4 @@
-Floki = 100
-Gus = 10
-Alice = 2
+valo1 = 10
+valor2 = 10
+valor3 = 2
 print(Floki - Alice - Gus)
