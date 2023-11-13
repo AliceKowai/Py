@@ -1,0 +1,7 @@
+---------- Estrutura de repetição -----------
+operadores logicos em python 
+and
+or 
+not
+
+10 > 8  - 1- falsa
