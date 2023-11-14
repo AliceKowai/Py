@@ -1,7 +1,31 @@
----------- Estrutura de repetição -----------
-operadores logicos em python 
-and
-or 
-not
-
-10 > 8  - 1- falsa
+-----------------Sumario --------------------
+hello_word --------------------  aula10.16
+somar--------------------------  aula10.16
+adicionar duas strings --------  aula10.17
+separador ---------------------  aula10.17
+soma de variaveis -------------  aula10.17
+area do quadrado --------------  aula10.18
+media - desafio04 -------------  aula10.18
+metros para cm - desafio05 ----  aula10.18
+area do quadrado - desafio06 --  aula10.18
+soma, divi e multi - desafio07-  aula10.18
+input de dados ----------------  aula10.18
+não nomeados ------------------  aula10.18
+float - strings - inteiros ----  aula10.18
+conversao graus ---------------  aula10.19
+f_strings ---------------------  aula10.19
+operadores aritmeticos --------  aula10.19
+peso ideal --------------------  aula10.19
+reajuste salarial -------------  aula10.19
+strings e floats/number -------  aula10.19
+consumo carro -----------------  aula10.31
+limitando exibição number .2f -  aula11.08
+fatiamento --------------------  aula11.08
+in e not in -------------------  aula11.08
+interpolar --------------------  aula11.08
+senha - elif ------------------  aula11.08
+fatiamento exercicio ----------  aula11.09
+list- Excluir elementos--------  aula11.13
+list- Adicionar elementos -----  aula11.13
+list- Somar listas ------------  aula11.14
+tupla -------------------------  aula11.14
