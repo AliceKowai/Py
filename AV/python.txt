@@ -29,3 +29,27 @@ list- Excluir elementos--------  aula11.13
 list- Adicionar elementos -----  aula11.13
 list- Somar listas ------------  aula11.14
 tupla -------------------------  aula11.14
+set ---------------------------  aula11.17
+atv_for -----------------------  aula11.20
+atv_while ---------------------  aula11.20
+for ---------------------------  aula11.21
+lower and upper ---------------  aula11.23
+count(nu de x que um caract ap)  aula11.23
+find --------------------------  aula11.23
+replace -----------------------  aula11.23
+split -------------------------  aula11.23
+funções -----------------------  aula11.27
+import random -----------------  aula11.27
+dicionarios -------------------  aula12.05
+dicionarios -------------------  aula12.06
+OO ----------------------------  aula12.12
+classes -----------------------  aula12.13
+property - fone_class ---------  aula12.13
+exemplos classes --------------  aula12.14
+dica site python.org ----------  aula12.14
+is ----------------------------  aula12.14
+class pet ---------------------  aula12.14
+pessoa ------------------------  aula12.14
+PRODUTO -----------------------  aula12.14
+bd ----------------------------  aula12.14
+herança -----------------------  aula12.14

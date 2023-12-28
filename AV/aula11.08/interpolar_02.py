@@ -12,3 +12,4 @@ print(f'{nome} ganha {salario} quem dera')
 
 print('O salário de %s é R$ %.2f' %(nome, salario))
 print('Quem ganha um salário de R$ %.2f é o %s' %(salario, nome))
+print(f'com F Quem ganha um salário de R$ {salario:.2f} é o {nome}')
